@@ -1,7 +1,7 @@
 {
   "name": "my-app-tac-toe",
   "version": "0.1.0",
-  "homepage":"https://Serial-Experiments-Lish.github.io/Tic-Tac-Yugi-Toh-",
+  "homepage":"https://serial-experiments-lish.github.io/Tic-Tac-Yugi-Toh-/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

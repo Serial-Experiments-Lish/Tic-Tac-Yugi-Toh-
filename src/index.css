@@ -1,0 +1,70 @@
+body {
+    font: 16px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    background-image: url("/Images/yugi-bro.jpg");
+  }
+  
+  ol, ul {
+    padding-left: 30px;
+  }
+  
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+    align-items: center;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+  }
+  
+  .square {
+    background:beige;
+    border: 8px double olivedrab;
+    float: left;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 111px;
+    margin-right: -1px;
+    margin-top: -1px;
+    width: 111px;
+    text-align: center;
+    justify-content: center;
+    color:maroon;
+    background-image: url('/Images/exodia.webp');
+    background-size: 111px;
+  }
+  
+  .square:focus {
+    outline: none;
+  }
+  
+  .kbd-navigation .square:focus {
+    background: #ddd;
+  }
+  
+  .game {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15vh;
+    margin-left: 200px;
+  }
+  
+  .game-info {
+    margin-left: 40px;
+    color:aquamarine;
+  }
+
+  .game-board {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .h1 {
+    text-align: center;
+    font-size: 26px;
+    color:aquamarine;
+  }

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Yugi-Toh-/static/css/main.595b0116.css",
+    "main.js": "/Tic-Tac-Yugi-Toh-/static/js/main.decd91c2.js",
+    "static/media/exodia.webp": "/Tic-Tac-Yugi-Toh-/static/media/exodia.da9fd24edcb8d3d03f32.webp",
+    "static/media/yugi-bro.jpg": "/Tic-Tac-Yugi-Toh-/static/media/yugi-bro.e66ec2128d8476311e54.jpg",
+    "index.html": "/Tic-Tac-Yugi-Toh-/index.html",
+    "main.595b0116.css.map": "/Tic-Tac-Yugi-Toh-/static/css/main.595b0116.css.map",
+    "main.decd91c2.js.map": "/Tic-Tac-Yugi-Toh-/static/js/main.decd91c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595b0116.css",
+    "static/js/main.decd91c2.js"
+  ]
+}
